@@ -1,6 +1,5 @@
 /bililive/videos
 /bililive/logs
-/bililive/config.yml
 /bililive/video
-/bililive/bililive-go.log
+/bililive/*.log
 /bililive/.appdata
